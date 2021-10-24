@@ -1,0 +1,6 @@
+[submodule "subtree_repo"]
+	path = subtree_repo
+	url = git@github.com:kei-kamiguchi/subtree_repo.git
+[submodule "subtree_repo_2"]
+	path = subtree_repo_2
+	url = git@github.com:kei-kamiguchi/subtree_repo_2.git
